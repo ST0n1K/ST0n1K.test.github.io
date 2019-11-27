@@ -1,0 +1,844 @@
+body {
+    background-color: #f8f8f8!important;
+}
+.header {
+    background-color: #00a9cf;
+    color: #fff;
+    padding: 20px;
+}
+.header .nums img {
+    position: absolute;
+    margin-left: -7%;
+    margin-top: 7%;
+}
+.header .nums {
+    color: #ffd300;
+    font-weight: 600;
+}
+.header-top {
+    background-color: #00a9cf;
+}
+.hr-header {
+    width: 200px;
+    height: 10px;
+    background-color: #ffd300;
+}
+.header span {
+    color: #ffd300;
+}
+.logo{
+    font-size: 32px;
+    font-family: "Myriad Pro", serif;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    border-bottom: 5px solid #ffd300;
+}
+.navbar {
+    background-color: #00a9cf;
+}
+.nav-item {
+    color: #fff;
+}
+.call-me {
+    background-color: rgb(244, 216, 29)!important;
+    position: relative;
+    left: 40%;
+}
+.call-me {
+    font-size: 14pt;
+    font-weight: 600;
+}
+.tabs img {
+    width: 150px;
+}
+.tabs-all {
+    background-color: #f8f8f8;
+    padding: 10px 0px;
+}
+.blocks h3 {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #00a9cf;
+    margin-bottom: 0px;
+}
+.time {
+    display: flex;
+    background-color: #ffd000;
+    width: 100%;
+    height: 60px;
+}
+.time div {
+    width: 25%;
+    height: 60px;
+    font-weight: bold;
+    font-size: 20pt;
+    border-right: 1px solid black;
+}
+.time div:nth-child(4) {
+    border: none;
+}
+.text-time {
+    position: relative;
+    font-weight: 700;
+    font-size: 12pt;
+    top: -20px;
+}
+.card-img img {
+    margin: 20px 0;
+}
+.top-left {
+    position: absolute;
+    top: 80px;
+    left: 16.3%;
+}
+.discount {
+    background-color: #ffd300;
+    width: 60px;
+    height: 30px;
+    font-size: 10pt;
+    font-weight: 700;
+    padding-top: 5px;
+}
+.card-title {
+    font-weight: 600;
+}
+.card-text {
+    font-size: 14pt;
+    font-weight: 600;
+}
+.new-price {
+    color: #0faed2;
+}
+.blocks .card a {
+    border: 1px solid #000;
+    width: 80%;
+    margin: 40px 0 40px 10%;
+    font-family: "BloggerSans";
+    font-size: 16pt;
+    letter-spacing: 2px;
+    border-radius: 0px;
+}
+.second-card img {
+    margin: 20px 20px;
+}
+.blue-block {
+    height: 10px;
+    width: 40px;
+    background-color: blue;
+}
+.blocks {
+    position: absolute;
+    top: 1200px;
+}
+.about p {
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.about h3 {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #00a9cf;
+    margin-bottom: 0px;
+    width: 250px;
+    text-align: center;
+    margin-left: 40%;
+    margin-bottom: 100px;
+}
+.about {
+    position: absolute;
+    top: 1900px;
+}
+.cards-about .card-img img {
+    width: 100%;
+    margin: 0;
+}
+.cards-about img {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.cards-about p {
+    font-size: 14pt;
+    padding-left: 20px;
+}
+.cards-about .inner-img {
+    width: 100%;
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 0%;
+}
+.card2 {
+    background-color: #038fd6!important;
+    color: #fff;
+}
+.card2 p {
+    padding-bottom: 83px;
+    padding-left: 20px;
+}
+.card3 p {
+    padding-bottom: 140px;
+}
+.cards-about {
+    position: absolute;
+    top: 2300px
+}
+.card-made .card-columns .card {
+    background-color: #00a9cf;
+    border-radius: 0px;
+    margin: 10px;
+    margin-top: 16px;
+    width: 200px!important;
+}
+.card-made .card-columns .card p {
+    color: #fff;
+    margin: 6px;
+}
+.card-made .card-columns {
+    column-count: 4!important;
+}
+.card-made .card-columns .card a {
+    color: #fff;
+    font-size: 14pt;
+    border: none;
+    margin-left: -20px;
+}
+.card-made .card-columns .card-body {
+    padding: 0;
+}
+.card-made .card-columns img {
+    width: 100%;
+}
+.card-made .card-columns .last .card-title {
+    font-size: 16pt;
+    font-weight: 700;
+    color: #000;
+    line-height: 25px;
+}
+.card-made .card-columns .last {
+    background-color: #ffd300;
+}
+.card-made .card-columns .last .card-text {
+    font-size: 9pt;
+    font-weight: 600;
+    color: #000;
+}
+.card-made .card-columns .last a {
+    font-size: 12pt;
+    color: #000;
+    border: 1px solid #000;
+    width: 90%;
+    margin: 18px 0px;
+    letter-spacing: 0;
+}
+
+.disc-block h3, .disc-block h2 {
+    margin: 0;
+    font-family: "BloggerSans Bold", serif;
+    font-weight: bold;
+    letter-spacing: -1px;
+}
+.disc-block h3 {
+    margin-top: 100px;
+}
+.hr-disc {
+    width: 100px;
+    background-color: #00a9cf;
+    height: 2px;
+    margin-top: 60px;
+}
+.disc-card .card-body {
+    background-color: #ffd300;
+    padding: 0 0 20px 0;
+}
+.disc-card .card-body img {
+    margin-top: 0px;
+    width: 100%;
+}
+.disc-card .card-body .card-title {
+    margin: 0;
+    font-weight: 700;
+}
+.disc-card .card {
+    padding: 10px 10px 0 10px;
+    border: none;
+}
+
+.disc-card {
+    background-color: #fff;
+    margin-top: -15px;
+}
+.disc-card a {
+    background-color: #00a9cf;
+    width: 90%;
+
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 12pt;
+    font-weight: 700;
+    padding: 0;
+    font-family: "BloggerSans Bold";
+    letter-spacing: 2px;
+}
+.disc-card .card-columns {
+    column-count: 6!important;
+    margin-top: 0px;
+}
+.disc-card .card-columns .card:nth-child(4) {
+    letter-spacing: -1px;
+}
+
+.shipping {
+    background-color: #038fd6;
+    margin-top: 40px;
+}
+.shipping div {
+    margin-top: 30px;
+}
+.shipping div:nth-child(odd) {
+    margin-top: 50px;
+}
+.shipping div p {
+    color: #fff;
+    font-size: 16pt;
+    margin-top: 30px;
+}
+.shipping div .lastp {
+    margin-top: 10px;
+}
+.man {
+    margin-top: -140px;
+}
+.triangle1 {
+    margin-top: -20px;
+}
+.woman {
+    margin-top: -170px;
+    z-index: -1;
+}
+.carousel-type img {
+    width: 70%;
+}
+.carousel-type .im2slider {
+    width: 80%;
+}
+.carousel-type .im1slider, .carousel-type .im3slider {
+     margin-top: 20px;
+ }
+.hr-works {
+    width: 120px;
+    background-color: #00a9cf;
+    height: 2px;
+    margin-top: 30px;
+}
+
+.our-works {
+    position: absolute;
+    top: 5750px;
+}
+
+.block-form {
+    width: 500px;
+    height: 540px;
+    background-color: #96dceb;
+    border: 10px solid #fff;
+    border-bottom: none;
+    position: absolute;
+    top: 6460px;
+    left: 23%;
+    z-index: 10;
+}
+.f1 {
+    font-size: 14pt;
+    font-weight: 700;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-family: "BloggerSans Bold";
+}
+.f2 {
+    font-family: BloggerSans;
+    font-size: 22pt;
+    font-weight: 500;
+    margin-left: 10%;
+    margin-top: 20px;
+    line-height: 30px;
+
+}
+.block-form input {
+    width: 80%;
+    margin-left: 10%;
+    height: 50px;
+    padding-left: 30px;
+}
+.block-form button {
+    margin-left: 10%;
+    width: 30%;
+    height: 50px;
+    font-family: "Myriad Pro";
+    font-size: 30px;
+    padding: 0;
+    font-weight: 200;
+}
+.block-form .hr-form {
+    position: relative;
+    width: 120px;
+    background-color: #ffd300;
+    height: 10px;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.feedbacks {
+    background-color: #038fd6;
+}
+.carousel-inner {
+    color: #fff;
+}
+.carousel-inner h2 {
+    font-weight: 400;
+    font-size: 24pt;
+    margin-top: 30px;
+}
+.carousel-inner img2 {
+    max-width: 10%;
+    max-height: 10%;
+ }
+.carousel-inner .im1, .carousel-inner .im3 {
+    width: 7%;
+    margin: 15px;
+}
+.feedback_text {
+    font-family: "BloggerSans Bold";
+    font-weight: 600!important;
+    margin-top: 40px;
+}
+.hr-carousel {
+    width: 200px;
+    background-color: #ffd300;
+    height: 2px;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+.carousel-inner .car-t1 {
+    margin-top: 30px;
+}
+.carousel-inner .car-t2 {
+    margin-top: 60px;
+}
+.woman-main {
+    position: absolute;
+    left: 50%;
+    top: 6350px;
+    z-index: 5;
+}
+.feed {
+    position: absolute;
+    top: 7000px;
+    z-index: 4;
+}
+.bg-4 {
+    position: absolute;
+    top: 6550px;
+}
+.wardrobe {
+    position: absolute;
+    z-index: 20;
+    top: 7500px;
+}
+.wardrobe img {
+    position: absolute;
+    left: 20%;
+}
+.wardrobe .eskiz {
+    position: absolute;
+    z-index: 21;
+    width: 550px;
+    height: 550px;
+    left: 50%;
+    background-color: #038fd6;
+    border-left: 30px solid #fff;
+    border-bottom: 30px solid #fff;
+    box-shadow: 0 0 60px rgba(0,0,0,0.5);
+    padding-top: 100px!important;
+}
+.eskiz p {
+    color: #fff;
+}
+.eskiz h2 {
+    color: #fff;
+    font-size: 30pt;
+    margin-bottom: 50px;
+}
+.eskiz .hr-footer {
+    width: 70%;
+    background-color: #ffd300;
+    height: 10px;
+    margin-top: 50px;
+    margin-left: 0%;
+}
+.contact-us {
+    position: absolute;
+    width: 450px;
+    height: 200px;
+    background-color: #ffd300;
+    left: 55.2%;
+    top: 547px;
+}
+.contact-us img {
+    margin-top: 15%;
+    margin-left: -10%;
+}
+.contact-us #telnum, .contact-us button {
+    width: 50%;
+    height: 50px;
+    margin-left: 35%;
+    font-size: 20pt;
+}
+.contact-us #telnum {
+    margin-top: 10%;
+}
+.contact-us button {
+    background-color: #ffd300;
+    color: #fff;
+    border: 2px solid #fff;
+}
+.contact-us p {
+    color: #fff;
+    margin-top: 10px;
+}
+.footer {
+    background-color: #00284f;
+    position: absolute;
+    top: 8400px;
+    height: 300px;
+    color: #fff;
+}
+.footer p {
+    font-size: 16pt;
+}
+.footer div {
+    margin-top: 3%;
+}
+
+@media screen and (max-width: 1440px) {
+    .header p {
+        font-size: 10pt;
+    }
+    .card-made .card-columns .card {
+        width: 170px!important;
+    }
+    .card-made .card-columns .last .card-title {
+        font-size: 13pt;
+        font-weight: 700;
+        line-height: 17px;
+    }
+    .card-made .card-columns .last a {
+        font-size: 9pt;
+        margin: 12px;
+    }
+    .blocks .card a {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .card2 p {
+        padding-bottom: 115px;
+    }
+    .card3 p {
+        padding-bottom: 200px;
+    }
+    .our-works {
+        position: absolute;
+        top: 5050px;
+    }
+    .block-form {
+        top: 5660px;
+    }
+    .woman-main {
+        top: 5550px;
+    }
+    .bg-4 {
+        top: 5700px;
+    }
+    .wardrobe {
+        top: 6350px;
+    }
+    .feed {
+        top: 7200px;
+    }
+    .footer {
+        top: 7700px;
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+
+    .disc-card .card-columns {
+        column-count: 3!important;
+    }
+
+    .header div {
+        margin: 0 70px;
+    }
+    .header img {
+        position: absolute;
+        left: -3%;
+
+    }
+    .call-me {
+        left: 10%;
+    }
+    .blocks {
+        top: 900px;
+    }
+    .about{
+        top: 1800px;
+    }
+    .cards-about {
+        top: 2200px;
+    }
+    .cards-about p {
+        font-size: 10pt;
+    }
+    .card-img img {
+        width: 100%;
+    }
+    .card-made .card-columns {
+        column-count: 3!important;
+    }
+    .card-made .card-columns .last .card-title {
+        font-size: 13pt;
+        font-weight: 700;
+        line-height: 17px;
+    }
+    .card-made .card-columns .last a {
+        font-size: 9pt;
+        margin: 12px;
+    }
+    .blocks .card a {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .card2 p {
+        padding-bottom: 115px;
+    }
+    .card3 p {
+        padding-bottom: 150px;
+    }
+    .our-works {
+        position: absolute;
+        top: 5150px;
+    }
+    .man {
+        margin-top: -70px;
+    }
+    .block-form {
+        top: 5560px;
+        width: 400px;
+        left: 12%;
+    }
+    .block-form button {
+        font-size: 20px;
+    }
+    .woman-main {
+        top: 5525px;
+        width: 40%;
+    }
+    .bg-4 {
+        top: 5570px;
+        height: auto;
+    }
+    .wardrobe {
+        top: 6650px;
+        left: -10%;
+    }
+    .feed {
+        top: 6100px;
+    }
+    .footer {
+        top: 7450px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    span.navbar-toggler-icon {
+        background-color: #ffd300!important;
+    }
+
+    .disc-card .card-columns {
+        column-count: 2!important;
+    }
+
+    .header div {
+        margin: 0 70px;
+    }
+    .header img {
+        position: absolute;
+        left: 33%;
+    }
+    .nums img {
+        left: 43%;
+        top: -30px;
+    }
+    .call-me {
+        left: -10%!important;
+        width: 50%;
+    }
+    .blocks {
+        top: 1100px;
+    }
+
+    .discount {
+        margin-left: -16.3%;
+    }
+    .about{
+        top: 2750px;
+        font-size: 10pt;
+    }
+    .about h3 {
+        margin-bottom: 20px;
+        margin-left: 30%;
+    }
+    .cards-about {
+        top: 3100px;
+        left: 17%;
+        width: 70%;
+    }
+    .cards-about p {
+        font-size: 10pt;
+    }
+    .card-img img {
+        width: 100%;
+    }
+    .card-made .card-columns {
+        column-count: 3!important;
+    }
+    .disc-card .card-body {
+        width: 50%;
+        margin-left: 25%;
+    }
+    .disc-card a {
+        width: 50%;
+    }
+    .shipping {
+
+    }
+    .card-made .card-columns .last .card-title {
+        font-size: 13pt;
+        font-weight: 700;
+        line-height: 17px;
+    }
+    .card-made .card-columns .last a {
+        font-size: 9pt;
+        margin: 12px;
+    }
+    .blocks .card a {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .card2 p {
+        padding-bottom: 115px;
+    }
+    .card3 p {
+        padding-bottom: 150px;
+    }
+    .our-works {
+        position: absolute;
+        top: 5350px;
+        display: none;
+    }
+    .carousel-type img {
+        width: 30px;
+    }
+    .man {
+        margin-top: -50px;
+    }
+    .block-form {
+        top: 8060px;
+        width: 400px;
+        height: 400px;
+        font-size: 10pt;
+        left: 10%;
+    }
+    .block-form p {
+        font-size: 11pt;
+    }
+    .block-form input {
+        height: 30px;
+        margin-bottom: 0px;
+    }
+    .block-form button {
+        height: 25px;
+        padding: 0;
+    }
+    .block-form button {
+        font-size: 20px;
+    }
+    .woman-main {
+        top: 8065px;
+        width: 30%;
+        left: 65%;
+    }
+    .bg-4 {
+        top: 8100px;
+        height: auto;
+    }
+    .wardrobe {
+        top: 8850px;
+        left: -10%;
+    }
+    .wardrobe img {
+        width: 40%;
+    }
+    .wardrobe .eskiz {
+        width: 40%;
+        padding-top: 10px!important;
+        height: 350px;
+        border-left: 10px solid #fff;
+        border-bottom: 10px solid #fff;
+        left: 55%;
+    }
+    .wardrobe .eskiz h2 {
+        font-size: 12pt;
+    }
+    .wardrobe .hr-footer {
+        margin-top: 10px!important;
+    }
+    .wardrobe p {
+        font-size: 10pt;
+    }
+    .wardrobe .contact-us img {
+        width: 10%;
+    }
+    .wardrobe .contact-us #telnum, .wardrobe .contact-us button  {
+        height: 30px;
+        font-size: 10pt;
+    }
+    .wardrobe .contact-us {
+        left: 25%;
+        top: 350px;
+    }
+    .feed {
+        top: 8460px;
+    }
+    .feed h2 {
+        font-size: 11pt;
+    }
+    .feed .hr-carousel {
+        margin-bottom: 10px;
+    }
+    .feed p {
+        font-size: 9pt;
+        margin-bottom: 10px;
+    }
+    .feed .car-t2 {
+        margin-top: 10px;
+    }
+    .footer {
+        top: 9450px;
+    }
+    .paralax {
+        margin-top: 2000px;
+    }
+}
